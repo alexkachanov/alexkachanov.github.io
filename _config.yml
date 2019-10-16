@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: My Personal Github web-site
 description: Feel good
+permalink: /blog/:year/:month/:day/:title
